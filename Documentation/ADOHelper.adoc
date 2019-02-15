@@ -1,6 +1,6 @@
 == ADO Helper
 
-This Service Object will contain all helper functions, which can be used for data conversion/transformation, that is returned from ADO.NET query.
+This Service Object contains several helper functions, which can be used for data conversion/transformation, that are returned from ADO.NET query.
 
 
 === Join method - main features:
